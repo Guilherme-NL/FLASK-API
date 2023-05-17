@@ -1,0 +1,3 @@
+dataeng91963:southamerica-east1:data-eng-91963
+./cloud_sql_proxy -instances=dataeng91963:southamerica-east1:data-eng-91963=tcp:0.0.0.0:1234
+source venv/bin/activate
